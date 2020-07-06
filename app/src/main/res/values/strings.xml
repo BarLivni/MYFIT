@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyFit</string>
+    <string name="login">התחבר</string>
+    <string name="imageicon">imageIcon</string>
+    <string name="enterphone">הכנס מספר נייד</string>
+    <string name="enterpasswordsignup">הכנס סיסמה</string>
+    <string name="entername">הכנס שם</string>
+    <string name="myfit">MyFit</string>
+    <string name="signup">הרשמה</string>
+    <string name="imageanimate">imageAnimate</string>
+    <string name="logout">התנתק</string>
+    <string name="enter">כניסה</string>
+    <string name="enterpasswordSI">הכנס סיסמה</string>
+    <string name="entermailSI">הכנס דואר אלקטרוני</string>
+    <string name="tosignup">משתמש חדש? </string>
+    <string name="icon">icon</string>
+    <string name="hello">שלום</string>
+    <string name="note">כאן יוצגו השיעורים הזמינים(:</string>
+    <string name="showlesson">הצג שיעורים</string>
+    <string name="mylessons">השיעורים שלי:</string>
+</resources>

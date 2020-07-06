@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830092646206",
+    "firebase_url": "https://myfit-4ad5c.firebaseio.com",
+    "project_id": "myfit-4ad5c",
+    "storage_bucket": "myfit-4ad5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830092646206:android:c20ad3057bdb8033c4be6f",
+        "android_client_info": {
+          "package_name": "com.example.myfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830092646206-g9dqbp9cs90bqar1i9hp5j0juk8pu4lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwctFU-g4qCD44F6me5GDivcQ_poKOUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830092646206-g9dqbp9cs90bqar1i9hp5j0juk8pu4lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
